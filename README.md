@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Mikhail Neri · Senior Full Stack Web Developer · The Code Hermit" width="100%" />
+  <img src="./banner.svg" alt="Mikhail Neri · Senior Full Stack Web Developer · The Code Hermit" width="100%" />
 </div>
 
 <div align="center">
