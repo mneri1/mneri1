@@ -26,8 +26,6 @@ I build from a blank file. PHP and Laravel on the server, React 19 and TypeScrip
 
 I have architected and shipped a three application headless commerce platform solo, written 90+ custom plugins, and I run my own SaaS products in production, which means I own uptime, billing, migrations and support, not just the pull request.
 
-I use AI tooling the way I use an IDE or a linter. I read, test and understand every line before it ships.
-
 <br>
 
 ## 🧰 Stack
