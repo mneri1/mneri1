@@ -196,18 +196,13 @@ Took a store from a failing processor readiness audit to submission ready. An 18
 
 <br>
 
-## 📈 GitHub
+## 📈 Signals
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mneri1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b0e13&title_color=e6c98d&icon_color=967632&text_color=8b949e" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mneri1&layout=compact&langs_count=8&hide_border=true&bg_color=0b0e13&title_color=e6c98d&text_color=8b949e" alt="Top languages" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=mneri1&hide_border=true&background=0b0e13&stroke=967632&ring=e6c98d&fire=e6c98d&currStreakLabel=e6c98d&sideLabels=8b949e&dates=8b949e&sideNums=f0f6fc&currStreakNum=f0f6fc" alt="Contribution streak" />
-
+  <img src="./signals.svg" alt="28 feature phases shipped, 55+ admin controllers, 56 API routes, 108 PHPUnit tests, PHPStan level 6, 90+ custom plugins" width="100%" />
 </div>
 
-> Most of my client work sits in private repositories under NDA, so the graph above is a floor, not a ceiling.
+> Almost all of my client work sits in private repositories under NDA, so the contribution graph below this README is a floor, not a ceiling. The numbers above come from shipped systems I architected and wrote.
 
 <br>
 
