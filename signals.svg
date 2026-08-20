@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Engineering signals from the flagship headless commerce build and the WooCommerce cart bridge plugin">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0e13"/>
+      <stop offset="55%" stop-color="#11151d"/>
+      <stop offset="100%" stop-color="#0b0e13"/>
+    </linearGradient>
+    <linearGradient id="sgold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e6c98d"/>
+      <stop offset="100%" stop-color="#967632"/>
+    </linearGradient>
+    <linearGradient id="sfade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#967632" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#967632" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="sgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#967632" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#sbg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#sgrid)"/>
+  <rect x="0" y="0" width="1200" height="300" rx="16" fill="none" stroke="#967632" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect x="0" y="0" width="6" height="300" rx="3" fill="url(#sgold)"/>
+
+  <text x="44" y="52" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing="3" fill="#7d8590">$ git log --oneline --shipped</text>
+  <text x="44" y="82" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="1.6" fill="url(#sgold)">MEASURED ON THE WORK, NOT THE PROFILE GRAPH</text>
+  <rect x="46" y="96" width="360" height="2" fill="url(#sfade)"/>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <g transform="translate(44 118)">
+      <rect x="0" y="0" width="356" height="72" rx="10" fill="#967632" fill-opacity="0.07" stroke="#967632" stroke-opacity="0.35"/>
+      <text x="20" y="46" font-size="34" font-weight="700" fill="#f0f6fc">28</text>
+      <text x="76" y="34" font-size="13.5" letter-spacing="1.2" fill="#e6c98d">FEATURE PHASES SHIPPED</text>
+      <text x="76" y="54" font-family="ui-monospace, Consolas, monospace" font-size="11.5" fill="#7d8590">headless commerce platform, all live</text>
+    </g>
+    <g transform="translate(422 118)">
+      <rect x="0" y="0" width="356" height="72" rx="10" fill="#967632" fill-opacity="0.07" stroke="#967632" stroke-opacity="0.35"/>
+      <text x="20" y="46" font-size="34" font-weight="700" fill="#f0f6fc">55+</text>
+      <text x="94" y="34" font-size="13.5" letter-spacing="1.2" fill="#e6c98d">ADMIN CONTROLLERS</text>
+      <text x="94" y="54" font-family="ui-monospace, Consolas, monospace" font-size="11.5" fill="#7d8590">CodeIgniter 4, sole architect</text>
+    </g>
+    <g transform="translate(800 118)">
+      <rect x="0" y="0" width="356" height="72" rx="10" fill="#967632" fill-opacity="0.07" stroke="#967632" stroke-opacity="0.35"/>
+      <text x="20" y="46" font-size="34" font-weight="700" fill="#f0f6fc">56</text>
+      <text x="76" y="34" font-size="13.5" letter-spacing="1.2" fill="#e6c98d">API ROUTES</text>
+      <text x="76" y="54" font-family="ui-monospace, Consolas, monospace" font-size="11.5" fill="#7d8590">key auth, Bearer, rate limited</text>
+    </g>
+
+    <g transform="translate(44 202)">
+      <rect x="0" y="0" width="356" height="72" rx="10" fill="#967632" fill-opacity="0.07" stroke="#967632" stroke-opacity="0.35"/>
+      <text x="20" y="46" font-size="34" font-weight="700" fill="#f0f6fc">108</text>
+      <text x="94" y="34" font-size="13.5" letter-spacing="1.2" fill="#e6c98d">PHPUNIT TESTS</text>
+      <text x="94" y="54" font-family="ui-monospace, Consolas, monospace" font-size="11.5" fill="#7d8590">WooCommerce cart bridge plugin</text>
+    </g>
+    <g transform="translate(422 202)">
+      <rect x="0" y="0" width="356" height="72" rx="10" fill="#967632" fill-opacity="0.07" stroke="#967632" stroke-opacity="0.35"/>
+      <text x="20" y="46" font-size="34" font-weight="700" fill="#f0f6fc">6</text>
+      <text x="60" y="34" font-size="13.5" letter-spacing="1.2" fill="#e6c98d">PHPSTAN LEVEL</text>
+      <text x="60" y="54" font-family="ui-monospace, Consolas, monospace" font-size="11.5" fill="#7d8590">static analysis on that plugin</text>
+    </g>
+    <g transform="translate(800 202)">
+      <rect x="0" y="0" width="356" height="72" rx="10" fill="#967632" fill-opacity="0.07" stroke="#967632" stroke-opacity="0.35"/>
+      <text x="20" y="46" font-size="34" font-weight="700" fill="#f0f6fc">90+</text>
+      <text x="94" y="34" font-size="13.5" letter-spacing="1.2" fill="#e6c98d">CUSTOM PLUGINS</text>
+      <text x="94" y="54" font-family="ui-monospace, Consolas, monospace" font-size="11.5" fill="#7d8590">WordPress and WooCommerce, 15 years</text>
+    </g>
+  </g>
+</svg>
